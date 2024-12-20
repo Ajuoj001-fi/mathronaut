@@ -1,0 +1,48 @@
+Tietosuojakäytäntö
+
+Päivitetty: [Päivämäärä]
+
+1. Johdanto
+
+Tämä tietosuojakäytäntö koskee sovellusta Mathronaut, joka tarjoaa käyttäjille pelin pistetilastoja paikallisesti heidän laitteessaan. Ymmärrämme yksityisyyden tärkeyden ja haluamme tehdä selväksi, että emme kerää, säilytä tai jaa mitään käyttäjätietoja.
+
+2. Kerättävät tiedot
+
+Sovelluksemme ei kerää käyttäjästä minkäänlaisia henkilötietoja tai muita tietoja. Sovelluksen ainoa tallentama data liittyy pelin pistetietoihin, jotka tallennetaan paikallisesti käyttäjän laitteeseen, ja ne näkyvät ainoastaan sovelluksen käyttäjälle.
+
+3. Tietojen käyttö
+
+Koska sovellus ei kerää tai tallenna mitään käyttäjätietoja, ei niitä myöskään käytetä analytiikkaan, markkinointiin tai muihin tarkoituksiin.
+
+4. Tietojen jakaminen kolmansille osapuolille
+
+Käyttäjän tietoja ei jaeta, myydä tai luovuteta kolmansille osapuolille, sillä Sovellus ei kerää mitään tietoja, joita voitaisiin jakaa.
+
+5. Tietoturva
+
+Vaikka Sovelluksessa ei kerätä käyttäjätietoja, pyrimme varmistamaan, että kaikki paikallisesti tallennetut pelin pistetiedot säilyvät käyttäjän laitteella turvallisesti, eivätkä ne ole muiden sovellusten tai kolmansien osapuolten saatavilla.
+
+6. Käyttäjän oikeudet
+
+Koska Sovellus ei kerää tietoja, ei käyttäjillä ole tarvetta pyytää tietojen tarkistamista, oikaisemista tai poistamista. Kaikki tiedot säilyvät ainoastaan käyttäjän laitteessa paikallisesti.
+
+7. Yhteystiedot
+
+Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, voit ottaa meihin yhteyttä seuraavalla sähköpostilla: oj.educationtech@gmailcom
+
+8. Muutokset tähän tietosuojakäytäntöön
+
+Voimme tarvittaessa päivittää tätä tietosuojakäytäntöä. Kaikki muutokset julkaistaan Sovelluksessa, ja suosittelemme tarkistamaan tämän sivun säännöllisesti muutosten varalta.
+
+9. Mainokset ja kolmannen osapuolen datankeruu
+
+Sovelluksessa näytetään mainoksia, jotka toimittaa kolmannen osapuolen mainoskumppani [esim. Google AdMob]. Nämä mainoskumppanit saattavat kerätä tietoja käyttäjän laitteesta ja sovelluksen käytöstä, jotta he voivat tarjota käyttäjälle kohdennettuja mainoksia.
+
+Kerätty data voi sisältää tietoja, kuten:
+
+-Laitteen tunnisteet
+-Sijaintitiedot (jos käyttäjä on antanut siihen luvan)
+-Muita teknisiä tietoja, jotka liittyvät laitteen ja sovelluksen käyttöön
+-Tämän tiedon kerääminen ja käyttö määräytyy mainoskumppanin omien tietosuojakäytäntöjen ja käyttöehtojen mukaan. Kehotamme käyttäjiä tutustumaan esim. Google AdMobin tietosuojakäytäntöön, jos he haluavat lisätietoja mainoskumppanien tietojenkäsittelystä.
+
+Käyttäjällä on mahdollisuus hallita mainosten kohdentamista esimerkiksi laiteasetuksista tai ottamalla yhteyttä suoraan mainoskumppaneihin.
